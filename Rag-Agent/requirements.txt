@@ -1,7 +1,0 @@
-openai
-langchain
-langgraph
-chromadb
-docker
-tqdm
-python-dotenv
